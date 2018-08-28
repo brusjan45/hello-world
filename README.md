@@ -1,2 +1,2 @@
 # hello-world
-prøverunde
+Sjefen, brusjan
